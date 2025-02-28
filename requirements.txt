@@ -1,0 +1,8 @@
+streamlit
+requests
+python-dotenv
+pandas
+datetime
+time
+json
+streamlit-echarts
